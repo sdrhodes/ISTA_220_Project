@@ -19,7 +19,7 @@ April 20, 2018
 6. The stats pane will contain four values: strength, intellect, agility, stamina
 7. The stat pane values will be the sum of the item's stats that are worn by the character (equipped)
 
-###Functional Requirements
+### Functional Requirements
 
 1. The items in the program will be represented by values held in a database.
 2. Items are broken down into types - equip items, and potion items.
